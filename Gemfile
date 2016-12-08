@@ -2,5 +2,5 @@ source 'https://rubygems.org'
 
 gemspec
 
-gem 'rake', '~> 11.1'
+gem 'rake', '~> 12.0'
 gem 'minitest'
