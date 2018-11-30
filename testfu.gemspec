@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'testfu'
-  s.version     = '1.0.0'
+  s.version     = '2.0.0'
   s.date        = '2015-05-12'
   s.summary     = "Testing dependency resolution with rubygems, one gem at a time"
   s.description = "Testing dependency resolution with rubygems, one gem at a time"
